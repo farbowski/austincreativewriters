@@ -112,7 +112,7 @@ const Home: NextPage = () => {
                 ✍️ I&apos;m a complete beginner. Can I still join?
               </p>
               <p>We welcome all skill levels.</p>
-              <p className={styles.faqQuestion}>✍️ will u fix my grammer</p>
+              <p className={styles.faqQuestion}>✍️ Will u fix my grammer?</p>
               <p>Nope.</p>
               <p className={styles.faqQuestion}>
                 ✍️ But seriously, my grammar sucks.
