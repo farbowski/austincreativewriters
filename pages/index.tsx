@@ -115,7 +115,7 @@ const Home: NextPage = () => {
               <p className={styles.faqQuestion}>✍️ Will you fix my grammer?</p>
               <p>Nope.</p>
               <p className={styles.faqQuestion}>
-                ✍️ But seriously, my grammar sucks. I didn't even notice that grammar was misspelled in the previous question.
+                ✍️ But seriously, my grammar sucks. I didn&apos;t even notice that grammar was misspelled in the previous question.
               </p>
               <p>
                 A typo here and there is fine but your submission should be
