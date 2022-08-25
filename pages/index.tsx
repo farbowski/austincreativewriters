@@ -16,7 +16,7 @@ const Home: NextPage = () => {
         />
         <meta
           name="keywords"
-          content="fiction writers, Austin writer critique group"
+          content="fiction writers, Austin writer critique group, fiction creative writers group"
         />
         <link rel="icon" href="/favicon.ico" />
 
