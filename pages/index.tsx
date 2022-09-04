@@ -51,8 +51,8 @@ const Home: NextPage = () => {
             critiquing each others fictional short stories and novels.
           </p>
           <p>
-            Each meeting, we review three pieces of fiction approximately 5,000
-            words each.
+            Each meeting, we review up to three pieces of fiction, approximately 5,000
+            words each, submitted ~five days before the meetings.
           </p>
         </section>
         <section className={styles.faq}>
