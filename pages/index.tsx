@@ -38,7 +38,7 @@ const Home: NextPage = () => {
           <p>We are a writing critique group based in Austin.</p>
           <p>
             We meet up every other Wednesday night and spend about two hours
-            critiquing each others fictional short stories and novels.
+            critiquing each others&apos; fictional short stories and novels.
           </p>
           <p>
             Each meeting, we review up to three pieces of fiction, approximately 5,000
