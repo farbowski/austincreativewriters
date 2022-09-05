@@ -114,7 +114,11 @@ const Home: NextPage = () => {
               <p className={styles.faqQuestion}>
                 ✍️ I&apos;m a complete beginner. Can I still join?
               </p>
-              <p>We welcome all skill levels.</p>
+              <p>We welcome all skill levels. We love{" "}
+                <a
+                  target="_blank"
+                  rel="noreferrer"
+                  href="https://www.youtube.com/watch?v=iCJLOXqnT2I">absolute beginners</a>{" "} (both you and the song).</p>
               <p className={styles.faqQuestion}>✍️ Will you fix my grammer?</p>
               <p>Nope.</p>
               <p className={styles.faqQuestion}>
