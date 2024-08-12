@@ -12,7 +12,7 @@ const Home: NextPage = () => {
         <title>Austin Creative Fiction Writers Group</title>
         <meta
           name="description"
-          content="A writing critique group based in Austin, Texas, for fiction writers of all skill levels"
+          content="A writing critique group based in Austin, Texas, that meets in-person biweekly, for fiction writers of all skill levels"
         />
         <meta
           name="keywords"
