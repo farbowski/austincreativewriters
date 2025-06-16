@@ -112,7 +112,7 @@ const Home: NextPage = () => {
             </div>
             <div className={styles.faqColumn}>
               <p className={styles.faqQuestion}>
-                ✍️ I&apos;m a complete beginner. Can I still join?
+                ✍️ I am a complete beginner. Can I still join?
               </p>
               <p>We welcome all skill levels. We love{" "}
                 <a
