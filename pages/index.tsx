@@ -162,7 +162,7 @@ const Home: NextPage = () => {
                 >
                   our groups.io page
                 </a>
-                . There you can find more info, submit questions, and apply for group membership. Thank you for your interest and for making it to the end of this page!
+                . There you can find more info, submit questions, and apply for group membership. Thank you for your interest, and congratulations on  making it to the end of this page!
               </p>
             </div>
           </div>
